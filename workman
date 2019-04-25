@@ -102,9 +102,9 @@ xkb_symbols "programmer" {
 // Derived from Workman layout, designed by OJ Bucao, 2010
 // Public domain
 //
-// This layout is simplified to retain the ZXCV block from the QWERTY layout,
+// This layout is simplified to retain the ZXCV block from the QWERTZ layout,
 // so the most common keyborad shortcuts can still be used in their usual positions.
-// The modifications include optimisation for coding in PHP, Ruby and jQuery,
+// The modifications include optimisation for coding in PHP, Ruby and JavaScript,
 // and using Linux Shell.
 // The layout also retains Eastern European letters on level3 (AltGr) on
 // positions of the Southern Slavic layouts. Dead keys and unneeded characters
