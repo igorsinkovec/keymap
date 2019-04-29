@@ -120,7 +120,7 @@ xkb_symbols "prog-simp-ee" {
   //             Unmodified       Shift            AltGr            Shift+AltGr
 
   // symbols row, left side
-  key <TLDE> { [ asciitilde     , dead_diaeresis                                    ] };
+  key <TLDE> { [ grave          , asciitilde     , asciicircum    , dead_diaeresis  ] };
   key <AE01> { [ 1              , exclam         , asciitilde     , exclamdown      ] };
   key <AE02> { [ 2              , quotedbl       , dead_caron     , 2               ] };
   key <AE03> { [ 3              , numbersign     , asciicircum    , 3               ] };
