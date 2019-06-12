@@ -179,7 +179,7 @@ xkb_symbols "prog-simp-ee" {
 
   // lower row, right side
   key <AB06> { [ l              , L              , greater                          ] };
-  key <AB07> { [ m              , M              , equal          , 0               ] };
+  key <AB07> { [ m              , M              , equal          , m               ] };
   key <AB08> { [ comma          , semicolon      , greater        , comma           ] };
   key <AB09> { [ period         , colon          , less           , period          ] };
   key <AB10> { [ exclam         , question       , exclamdown     , questiondown    ] };
