@@ -10,6 +10,8 @@ Sourced from O.J. Bucao's Workman layout https://workmanlayout.org/. This keyboa
 
 Adapted from Workman layout, which I found very very good, much better than Dvorak, for example, but still had some annoyances with it, which I decided to get rid of.
 
+<img src="./KB_Workman_Simplified.svg">
+
 
 #### Making it even better
 
