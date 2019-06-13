@@ -158,7 +158,7 @@ xkb_symbols "prog-simp-ee" {
   key <AC02> { [ s              , S              , dollar                           ] };
   key <AC03> { [ h              , H              , braceleft                        ] };
   key <AC04> { [ t              , T              , parenleft                        ] };
-  key <AC05> { [ g              , G              , percent                          ] };
+  key <AC05> { [ g              , G              , bar                              ] };
 
   // home row, right side
   key <AC06> { [ y              , Y              , ampersand                        ] };
@@ -172,8 +172,8 @@ xkb_symbols "prog-simp-ee" {
   // lower row, left side
   key <LSGT> { [                                                                    ] };
   key <AB01> { [ z              , Z                                                 ] };
-  key <AB02> { [ x              , X                                                 ] };
-  key <AB03> { [ c              , C                                                 ] };
+  key <AB02> { [ x              , X              , exclam                           ] };
+  key <AB03> { [ c              , C              , percent                          ] };
   key <AB04> { [ v              , V              , equal                            ] };
   key <AB05> { [ k              , K              , less                             ] };
 

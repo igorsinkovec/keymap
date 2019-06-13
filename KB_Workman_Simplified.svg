@@ -504,7 +504,7 @@
     <text id="key_AC02_level_3" >$</text>
     <text id="key_AC03_level_3" y="-4" >{</text>
     <text id="key_AC04_level_3" y="-4" >(</text>
-    <text id="key_AC05_level_3" y="-4" >%</text>
+    <text id="key_AC05_level_3" y="-4" >|</text>
     <text id="key_AC06_level_3" y="-4" >&amp;</text>
     <text id="key_AC07_level_3" y="-4" >)</text>
     <text id="key_AC08_level_3" y="-4" >}</text>
@@ -515,8 +515,8 @@
 
     <text id="key_LSGT_level_3" ></text>
     <text id="key_AB01_level_3" ></text>
-    <text id="key_AB02_level_3" ></text>
-    <text id="key_AB03_level_3" ></text>
+    <text id="key_AB02_level_3" >!</text>
+    <text id="key_AB03_level_3" >%</text>
     <text id="key_AB04_level_3" >=</text>
     <text id="key_AB05_level_3" >&lt;</text>
     <text id="key_AB06_level_3" >&gt;</text>
