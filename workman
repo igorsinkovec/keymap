@@ -148,7 +148,7 @@ xkb_symbols "prog-simp-ee" {
   key <AD06> { [ j              , J              , slash                            ] };
   key <AD07> { [ f              , F              , bracketright                     ] };
   key <AD08> { [ u              , U              , greater                          ] };
-  key <AD09> { [ p              , P              , any                              ] };
+  key <AD09> { [ p              , P              , backslash                        ] };
   key <AD10> { [ underscore     , slash          , bar            , backslash       ] };
   key <AD11> { [ apostrophe     , at             , scaron         , Scaron          ] };
   key <AD12> { [ quotedbl       , ampersand      , dstroke        , Dstroke         ] };
@@ -164,7 +164,7 @@ xkb_symbols "prog-simp-ee" {
   key <AC06> { [ y              , Y              , ampersand                        ] };
   key <AC07> { [ n              , N              , parenright                       ] };
   key <AC08> { [ e              , E              , braceright                       ] };
-  key <AC09> { [ o              , O              , any                              ] };
+  key <AC09> { [ o              , O              , slash                            ] };
   key <AC10> { [ i              , I              , ccaron         , Ccaron          ] };
   key <AC11> { [ minus          , equal          , cacute         , Cacute          ] };
   key <BKSL> { [ plus           , asterisk       , zcaron         , Zcaron          ] };
